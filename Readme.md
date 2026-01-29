@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Building effective And efficient Solutions.<br>I currently work Software development field With wide interest in AI solutions <br>I'm currently learning Next js Typescript and nodejs.<br>
+I'm currently working on building effective and efficient Solutions.<br>I currently work in Software development field with wide interest in AI solutions <br>I'm currently learning Next.js, Typescript and node.js.<br>
 
 
 ## 🌐 Socials:
