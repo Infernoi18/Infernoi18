@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on building effective and efficient Solutions.<br>I currently work in Software development field with wide interest in AI solutions. <br>I'm currently learning Next.js, Typescript and node.js.<br>
+Passionate software developer focused on building modern, scalable, and impactful digital solutions.  
+Currently developing Android applications and exploring full-stack development with Next.js, TypeScript, and Node.js.  
+Interested in AI-powered applications, clean UI/UX design, mobile development, and practical problem-solving through technology.  
+Continuously learning, building, and improving through real-world projects and hands-on development.
 
 
 ## 🌐 Socials:
