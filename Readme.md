@@ -3,6 +3,7 @@ Passionate software developer focused on building modern, scalable, and impactfu
 Currently developing Android applications and exploring full-stack development with Next.js, TypeScript, and Node.js.  
 Interested in AI-powered applications, clean UI/UX design, mobile development, and practical problem-solving through technology.  
 Continuously learning, building, and improving through real-world projects and hands-on development.
+Currently working as Android Developer using Java and Kotlin.
 
 
 ## 🌐 Socials:
